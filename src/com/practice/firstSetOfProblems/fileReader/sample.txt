@@ -1,0 +1,30 @@
+Incoming MISM students should be able to solve these 5 problems within 90
+minutes with no outside reference or help. It is preferred that it is done in Java,
+but C++ is an acceptable alternative.
+Problem Required knowledge
+Print first 100 prime numbers Numeric variables, loops
+Take n integers from the user as input and print them in a
+sorted order
+
+Numeric variables, Input/output,
+loops, if condition, arrays, sorting
+
+Write a program that has a method that tells whether an
+integer input by the user is a prime number or not
+
+Numeric variables, Input/output,
+formula, loop, if condition
+
+Take a word as input from the user and output whether it is
+a palindrome or not
+
+Character / string data, loops, if
+conditions
+
+Take a text file name as an input. Read the file in your
+program and search for the word entered by the user. If the
+word exists in the file, print the number of times the word
+appears in the file.
+
+File input/output, string data type,
+loops.
